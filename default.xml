@@ -70,7 +70,7 @@
   <project path="device/google/atv" name="device/google/atv" groups="device,broadcom_pdk,generic_fs,pdk" />
   <project path="device/google/bluejay" name="device_google_bluejay" groups="device,bluejay" remote="grapheneos" />
   <project path="device/google/bluejay-sepolicy" name="device/google/bluejay-sepolicy" groups="device,bluejay" />
-  <project path="device/google/bluejay-kernels/5.10" name="device/google/bluejay-kernels/5.10" groups="device,bluejay" clone-depth="1" />
+  <project path="device/google/bluejay-kernels/5.10" name="device_google_bluejay-kernels_5.10" groups="device,bluejay" clone-depth="1" remote="grapheneos" />
   <project path="device/google/contexthub" name="device/google/contexthub" groups="device,pdk" />
   <project path="device/google/caimito" name="device/google/caimito" groups="device,caimito" />
   <project path="device/google/caimito-kernels/6.1" name="device/google/caimito-kernels/6.1" groups="device,caimito" clone-depth="1" />
