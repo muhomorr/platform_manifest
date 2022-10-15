@@ -90,7 +90,7 @@
   <project path="device/google/lynx" name="device/google/lynx" groups="device,lynx" />
   <project path="device/google/lynx-sepolicy" name="device/google/lynx-sepolicy" groups="device,lynx" />
   <project path="device/google/lynx-kernels/5.10" name="device/google/lynx-kernels/5.10" groups="device,lynx" clone-depth="1" />
-  <project path="device/google/pantah" name="device/google/pantah" groups="device,cloudripper,pdk-gs-arm" />
+  <project path="device/google/pantah" name="device_google_pantah" groups="device,cloudripper,pdk-gs-arm" remote="grapheneos" />
   <project path="device/google/pantah-sepolicy" name="device/google/pantah-sepolicy" groups="device,cloudripper,pdk-gs-arm" />
   <project path="device/google/pantah-kernels/5.10" name="device/google/pantah-kernels/5.10" groups="device,cloudripper,pdk-gs-arm" clone-depth="1" />
   <project path="device/google/raviole" name="device_google_raviole" groups="device,slider,pdk-gs-arm" remote="grapheneos" />
