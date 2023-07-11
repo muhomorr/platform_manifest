@@ -6,10 +6,10 @@
            review="https://android-review.googlesource.com/" />
   <remote  name="grapheneos"
            fetch="https://github.com/GrapheneOS/"
-           revision="refs/heads/13-felix" />
+           revision="refs/tags/2023071100-felix" />
   <remote  name="grapheneos-gitlab"
            fetch="https://gitlab.com/grapheneos/"
-           revision="refs/heads/13-felix" />
+           revision="refs/tags/2023071100-felix" />
   <default revision="refs/tags/android-13.0.0_r65"
            remote="aosp"
            sync-j="4" />
