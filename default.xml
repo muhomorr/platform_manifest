@@ -101,7 +101,7 @@
   <project path="device/google/tangorpro" name="device_google_tangorpro" groups="device,tangorpro" remote="grapheneos" />
   <project path="device/google/tangorpro-sepolicy" name="device/google/tangorpro-sepolicy" groups="device,tangorpro" />
   <project path="device/google/tangorpro-kernels/5.10" name="device_google_tangorpro-kernels_5.10" groups="device,tangorpro" clone-depth="1" remote="grapheneos" />
-  <project path="device/google/shusky" name="device/google/shusky" groups="device,ripcurrent,pdk-gs-arm" />
+  <project path="device/google/shusky" name="device_google_shusky" groups="device,ripcurrent,pdk-gs-arm" remote="grapheneos" />
   <project path="device/google/shusky-kernels/5.15" name="device/google/shusky-kernels/5.15" groups="device,ripcurrent,pdk-gs-arm" clone-depth="1" />
   <project path="device/google/shusky-sepolicy" name="device/google/shusky-sepolicy" groups="device,ripcurrent,pdk-gs-arm" />
   <project path="device/google/cuttlefish" name="device/google/cuttlefish" groups="device,pdk" />
