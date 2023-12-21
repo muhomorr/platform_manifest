@@ -87,9 +87,6 @@
   <project path="device/google/comet-kernels/6.1" name="device_google_comet-kernels_6.1" groups="device,comet" clone-depth="1" remote="grapheneos" />
   <project path="device/google/comet-sepolicy" name="device/google/comet-sepolicy" groups="device,comet" />
   <project path="device/google/common/etm" name="device/google/common/etm" groups="device" clone-depth="1" />
-  <project path="device/google/coral" name="device/google/coral" groups="device,coral,generic_fs" />
-  <project path="device/google/coral-kernel" name="device/google/coral-kernel" groups="device,coral,generic_fs" clone-depth="1" />
-  <project path="device/google/coral-sepolicy" name="device/google/coral-sepolicy" groups="device,coral,generic_fs" />
   <project path="device/google/felix" name="device_google_felix" groups="device,felix" remote="grapheneos" />
   <project path="device/google/felix-sepolicy" name="device/google/felix-sepolicy" groups="device,felix" />
   <project path="device/google/felix-kernels/5.10" name="device_google_felix-kernels_5.10" groups="device,felix" clone-depth="1" remote="grapheneos" />
@@ -117,9 +114,6 @@
   <project path="device/google/shusky" name="device_google_shusky" groups="device,ripcurrent,pdk-gs-arm" remote="grapheneos" />
   <project path="device/google/shusky-kernels/5.15" name="device_google_shusky-kernels_5.15" groups="device,ripcurrent,pdk-gs-arm" clone-depth="1" remote="grapheneos" />
   <project path="device/google/shusky-sepolicy" name="device/google/shusky-sepolicy" groups="device,ripcurrent,pdk-gs-arm" />
-  <project path="device/google/sunfish" name="device/google/sunfish" groups="device,sunfish" />
-  <project path="device/google/sunfish-kernel" name="device/google/sunfish-kernel" groups="device,sunfish" clone-depth="1" />
-  <project path="device/google/sunfish-sepolicy" name="device/google/sunfish-sepolicy" groups="device,sunfish" />
   <project path="device/google/cuttlefish" name="device/google/cuttlefish" groups="device,pdk" />
   <project path="device/google/cuttlefish_prebuilts" name="device/google/cuttlefish_prebuilts" groups="device,pdk" clone-depth="1" />
   <project path="device/google/cuttlefish_vmm" name="device/google/cuttlefish_vmm" groups="device,pdk" clone-depth="1" />
