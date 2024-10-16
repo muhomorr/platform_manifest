@@ -1155,7 +1155,7 @@
   <project path="packages/apps/SetupWizard2" name="platform_packages_apps_SetupWizard2" remote="grapheneos" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" groups="pdk-fs" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" groups="apps_stk,pdk-fs" />
-  <project path="packages/apps/StorageManager" name="platform/packages/apps/StorageManager" groups="pdk-fs" />
+  <project path="packages/apps/StorageManager" name="platform_packages_apps_StorageManager" groups="pdk-fs" remote="grapheneos" />
   <project path="packages/apps/SystemUIGo" name="platform/packages/apps/SystemUIGo" groups="pdk-fs" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" groups="pdk-fs" />
   <project path="packages/apps/Test/connectivity" name="platform/packages/apps/Test/connectivity" groups="pdk" />
